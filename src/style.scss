@@ -1,0 +1,17 @@
+/* h1 {
+	font-family: Arial;
+	color: #FF0000;
+} */
+$green: #0F0;
+$white: #FFF;
+
+div {
+	background-color: $green;
+	color: $white;
+}
+
+#image {
+	background: url('wilderness.jpg');
+	height: 900px;
+	width: 900px;
+}
